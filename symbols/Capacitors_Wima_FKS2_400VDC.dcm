@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10n
+F ~
+$ENDCMP
+#
+$CMP 1n
+F ~
+$ENDCMP
+#
+$CMP 1n5
+F ~
+$ENDCMP
+#
+$CMP 2n2
+F ~
+$ENDCMP
+#
+$CMP 3n3
+F ~
+$ENDCMP
+#
+$CMP 4n7
+F ~
+$ENDCMP
+#
+$CMP 6n8
+F ~
+$ENDCMP
+#
+#End Doc Library

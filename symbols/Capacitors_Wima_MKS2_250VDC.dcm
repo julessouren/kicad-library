@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100n
+F ~
+$ENDCMP
+#
+$CMP 15n
+F ~
+$ENDCMP
+#
+$CMP 22n
+F ~
+$ENDCMP
+#
+$CMP 33n
+F ~
+$ENDCMP
+#
+$CMP 47n
+F ~
+$ENDCMP
+#
+$CMP 68n
+F ~
+$ENDCMP
+#
+#End Doc Library

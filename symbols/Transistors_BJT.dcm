@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_MBT3946DW1T1G
+F https://www.onsemi.com/pub/Collateral/MBT3946DW1T1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT2222LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT3904TT1G
+F https://www.onsemi.com/pub/Collateral/MMBT3904TT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT3906TT1G
+F https://www.onsemi.com/pub/Collateral/MMBT3906TT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT5087LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT5087LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT5088LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT5088LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_MMBT5089LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT5088LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT3904LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT3904LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT3906LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT3906LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT4401LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT4401LT1-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT4403LT1G
+F https://www.onsemi.com/pub/Collateral/MMBT4403LT1-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0u1
+F ~
+$ENDCMP
+#
+$CMP 0u22
+F ~
+$ENDCMP
+#
+$CMP 0u47
+F ~
+$ENDCMP
+#
+$CMP 100u
+F ~
+$ENDCMP
+#
+$CMP 10u
+F ~
+$ENDCMP
+#
+$CMP 1u
+F ~
+$ENDCMP
+#
+$CMP 220u
+F ~
+$ENDCMP
+#
+$CMP 22u
+F ~
+$ENDCMP
+#
+$CMP 2u2
+F ~
+$ENDCMP
+#
+$CMP 330u
+F ~
+$ENDCMP
+#
+$CMP 33u
+F ~
+$ENDCMP
+#
+$CMP 3u3
+F ~
+$ENDCMP
+#
+$CMP 47u
+F ~
+$ENDCMP
+#
+$CMP 4u7
+F ~
+$ENDCMP
+#
+#End Doc Library

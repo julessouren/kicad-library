@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100n
+F ~
+$ENDCMP
+#
+$CMP 1u
+F ~
+$ENDCMP
+#
+$CMP 220n
+F ~
+$ENDCMP
+#
+$CMP 2u2
+F ~
+$ENDCMP
+#
+$CMP 470n
+F ~
+$ENDCMP
+#
+#End Doc Library
