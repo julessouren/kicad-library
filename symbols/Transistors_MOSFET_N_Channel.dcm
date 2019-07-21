@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_2N7000TA
+F https://www.onsemi.com/pub/Collateral/2N7000-D.pdf
+$ENDCMP
+#
+$CMP ON_Semi_BS170
+F https://www.onsemi.com/pub/Collateral/BS170-D.pdf
+$ENDCMP
+#
+#End Doc Library

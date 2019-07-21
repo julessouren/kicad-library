@@ -1,5 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ON_Semi_2N3904TAR
+F https://www.onsemi.com/pub/Collateral/2N3904-D.pdf
+$ENDCMP
+#
+$CMP ON_Semi_2N3906TAR
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
+$ENDCMP
+#
+$CMP ON_Semi_2N5088TAR
+F https://www.onsemi.com/pub/Collateral/2N5088-D.pdf
+$ENDCMP
+#
+$CMP ON_Semi_BC547BTA
+F https://www.onsemi.com/pub/Collateral/BC550-D.pdf
+$ENDCMP
+#
 $CMP ON_Semi_MBT3946DW1T1G
 F https://www.onsemi.com/pub/Collateral/MBT3946DW1T1-D.PDF
 $ENDCMP

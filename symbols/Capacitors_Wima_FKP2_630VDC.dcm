@@ -1,27 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 100p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 $CMP 150p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 $CMP 220p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 $CMP 330p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 $CMP 470p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 $CMP 680p
-F ~
+F https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf
 $ENDCMP
 #
 #End Doc Library

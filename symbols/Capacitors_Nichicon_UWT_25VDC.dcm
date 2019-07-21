@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100u
+F http://www.nichicon.co.jp/english/products/pdfs/e-uwt.pdf
+$ENDCMP
+#
+$CMP 220u
+F http://www.nichicon.co.jp/english/products/pdfs/e-uwt.pdf
+$ENDCMP
+#
+$CMP 470u
+F http://www.nichicon.co.jp/english/products/pdfs/e-uwt.pdf
+$ENDCMP
+#
+#End Doc Library
