@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Zener
+F ~
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5918BT3G
+F https://www.onsemi.com/pub/Collateral/1SMA5913BT3-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5924BT3G
+F https://www.onsemi.com/pub/Collateral/1SMA5913BT3-D.PDF
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5931BT3G
+F https://www.onsemi.com/pub/Collateral/1SMA5913BT3-D.PDF
+$ENDCMP
+#
+#End Doc Library

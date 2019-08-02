@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Lumberg_1614_09
+F https://downloads.lumberg.com/datenblaetter/en/1614_09.pdf
+$ENDCMP
+#
+$CMP Lumberg_NEB_J_21_C
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Kemet_EA2-5NJ
+F https://content.kemet.com/datasheets/KEM_R7001_EA2_EB2.pdf
+$ENDCMP
+#
+$CMP Kemet_EA2-5SNJ
+F https://content.kemet.com/datasheets/KEM_R7001_EA2_EB2.pdf
+$ENDCMP
+#
+$CMP Kemet_EA2-5TNJ
+F https://content.kemet.com/datasheets/KEM_R7001_EA2_EB2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Texas_Instruments_LM13700M
+F http://www.ti.com/lit/ds/symlink/lm13700.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_LM13700N
+F http://www.ti.com/lit/ds/symlink/lm13700.pdf
+$ENDCMP
+#
+#End Doc Library

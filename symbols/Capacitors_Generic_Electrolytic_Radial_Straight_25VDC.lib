@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 220u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "220u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D8.0_H11.5_P3.5" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D8.0_H12_P3.5" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*

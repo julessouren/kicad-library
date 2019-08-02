@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP291
+D DC Optocoupler, Vce 80V, CTR 50-100%, SOP4
+K NPN DC Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291
+$ENDCMP
+#
+$CMP Vactec_VTL5C1
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C2
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C3
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C3_2
+F http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C4
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C4_2
+F http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C5
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C6
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C7
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C8
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Vactec_VTL5C9
+F http://www.qsl.net/wa1ion/vactrol/vactrol.pdf
+$ENDCMP
+#
+$CMP Xvive_VTL5C1
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C2
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C3
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C3_2
+F http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf
+$ENDCMP
+#
+$CMP Xvive_VTL5C4
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C4_2
+F http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf
+$ENDCMP
+#
+$CMP Xvive_VTL5C5
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C6
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C7
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C8
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+$CMP Xvive_VTL5C9
+F http://www.xviveaudio.com/download/Manual/Xvive_Opto_coupler_Datasheet.zip
+$ENDCMP
+#
+#End Doc Library

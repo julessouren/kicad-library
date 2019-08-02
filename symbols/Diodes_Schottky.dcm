@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Rectron_FM5817-W
+F https://www.rectron.com/public/product_datasheets/fm5817-fm5819.pdf
+$ENDCMP
+#
+$CMP Rectron_FM5819-W
+F https://www.rectron.com/public/product_datasheets/fm5817-fm5819.pdf
+$ENDCMP
+#
+#End Doc Library

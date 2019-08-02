@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TestPoint_Flag
+#
+DEF TestPoint_Flag TP 0 30 N N 1 F N
+F0 "TP" 70 55 20 H V C CNN
+F1 "TestPoint_Flag" 130 165 50 H V C CNN
+F2 "" 200 0 50 H I C CNN
+F3 "" 200 0 50 H I C CNN
+$FPLIST
+ Pin*
+ Test*
+$ENDFPLIST
+DRAW
+S 35 75 105 40 0 1 4 f
+P 2 0 1 10 0 0 35 35 N
+X 1 1 0 0 0 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

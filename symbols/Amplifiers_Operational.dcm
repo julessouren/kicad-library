@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Texas_Instruments_RC4558D
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558DGKR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558DR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558ID
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558IDGKR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558IDR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558IP
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558IPW
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558IPWR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558P
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558PSR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558PW
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_RC4558PWR
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL071CP
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL071IP
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL072CP
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL072IP
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL074CN
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_TL074IN
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_uA741CP
+F http://www.ti.com/lit/ds/symlink/ua741.pdf
+$ENDCMP
+#
+#End Doc Library

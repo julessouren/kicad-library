@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+F ~
+$ENDCMP
+#
+$CMP ON_Semi_1N4148WS
+F https://www.onsemi.cn/PowerSolutions/document/1N914BWS-D.pdf
+$ENDCMP
+#
+$CMP Rectron_FM4007W-W
+F https://www.rectron.com/public/product_datasheets/fm4001-fm4007.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 100u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "100u" 25 -100 50 H V L CNN
-F2 "Capacitors_SMD:Nichicon_UWT1E101MCL1GS" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_SMD:Nichicon_UWT1E101MCL1GS" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -26,7 +26,7 @@ ENDDEF
 DEF 220u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "220u" 25 -100 50 H V L CNN
-F2 "Capacitors_SMD:Nichicon_UWT1E221MNL1GS" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_SMD:Nichicon_UWT1E221MNL1GS" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -46,7 +46,7 @@ ENDDEF
 DEF 470u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "470u" 25 -100 50 H V L CNN
-F2 "Capacitors_SMD:Nichicon_UWT1E471MNL1GS" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_SMD:Nichicon_UWT1E471MNL1GS" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*

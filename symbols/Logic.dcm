@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_NL37WZ14USG
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_CD40106BE
+F http://www.ti.com/lit/ds/symlink/cd40106b.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD40106BM
+F http://www.ti.com/lit/ds/symlink/cd40106b.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD40106BPWR
+F http://www.ti.com/lit/ds/symlink/cd40106b.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4013BE
+F http://www.ti.com/lit/ds/symlink/cd4013b.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4049UBE
+F http://www.ti.com/lit/ds/symlink/cd4049ub.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4053BE
+F http://www.ti.com/lit/ds/symlink/cd4053b.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4069UBE
+F http://www.ti.com/lit/ds/symlink/cd4069ub.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_SN74LVC3G14DCTR
+F https://www.ti.com/lit/ds/symlink/sn74lvc3g14.pdf
+$ENDCMP
+#
+#End Doc Library

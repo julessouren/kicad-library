@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TestPoint_Flag
+D test point (alternative flag-style design)
+K test point tp
+F ~
+$ENDCMP
+#
+#End Doc Library

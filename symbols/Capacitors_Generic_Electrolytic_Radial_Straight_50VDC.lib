@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 0u1 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "0u1" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -26,7 +26,7 @@ ENDDEF
 DEF 0u22 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "0u22" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -46,7 +46,7 @@ ENDDEF
 DEF 0u47 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "0u47" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H12.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H12.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -66,7 +66,7 @@ ENDDEF
 DEF 100u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "100u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D8.0_H11.5_P3.5" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D8.0_H12_P3.5" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -86,7 +86,7 @@ ENDDEF
 DEF 10u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "10u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -106,7 +106,7 @@ ENDDEF
 DEF 1u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "1u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -126,7 +126,7 @@ ENDDEF
 DEF 220u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "220u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D10.0_H16.0_P5.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D10.0_H17.0_P5.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -146,7 +146,7 @@ ENDDEF
 DEF 22u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "22u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -166,7 +166,7 @@ ENDDEF
 DEF 2u2 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "2u2" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -186,7 +186,7 @@ ENDDEF
 DEF 330u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "330u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D10.0_H16.0_P5.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D10.0_H17.0_P5.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -206,7 +206,7 @@ ENDDEF
 DEF 33u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "33u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -226,7 +226,7 @@ ENDDEF
 DEF 3u3 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "3u3" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -246,7 +246,7 @@ ENDDEF
 DEF 47u C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "47u" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D6.3_H11.0_P2.5" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D6.3_H11.0_P2.5" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*
@@ -266,7 +266,7 @@ ENDDEF
 DEF 4u7 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "4u7" 25 -100 50 H V L CNN
-F2 "Capacitors_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
+F2 "Capacitors_Electrolytic_THT:Electrolytic_Radial_Straight_D5.0_H11.0_P2.0" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  CP_*

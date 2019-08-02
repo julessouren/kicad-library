@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_MMBF5457
+F https://www.onsemi.com/pub/Collateral/MMBF5459-D.pdf
+$ENDCMP
+#
+$CMP ON_Semi_MMBFJ201
+F https://www.onsemi.com/pub/Collateral/MMBFJ202-D.pdf
+$ENDCMP
+#
+#End Doc Library

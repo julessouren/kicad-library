@@ -1,4 +1,4 @@
-(module ON_Semi_MMBT2222LT1G (layer F.Cu) (tedit 5D335380)
+(module ON_Semi_MMBT2222LT1G (layer F.Cu) (tedit 5D357E4E)
   (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.05)))
