@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PinHeader_1x03_P2.54mm_Vertical_Top
+D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinHeader_Straight_01x05_P2.54mm
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library

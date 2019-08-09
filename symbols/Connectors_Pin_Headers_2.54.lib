@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# PinHeader_1x03_P2.54mm_Vertical_Top
+#
+DEF PinHeader_1x03_P2.54mm_Vertical_Top J 0 40 Y N 1 F N
+F0 "J" 0 100 39 H V C CNB
+F1 "PinHeader_1x03_P2.54mm_Vertical_Top" 0 -300 20 H V C CNN
+F2 "Connectors_Pin_Headers_2.54_THT:PinHeader_1x03_P2.54mm_Vertical_Top" 0 -350 20 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -250 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+X Pin_3 3 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PinHeader_Straight_01x05_P2.54mm
+#
+DEF PinHeader_Straight_01x05_P2.54mm J 0 40 Y N 1 F N
+F0 "J" 0 100 39 H V C CNB
+F1 "PinHeader_Straight_01x05_P2.54mm" 50 -500 20 H V C CNN
+F2 "Connectors_Pin_Headers_2.54_THT:PinHeader_1x05_P2.54mm_Vertical" 50 -550 20 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 50 50 -450 0 1 0 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+X Pin_3 3 -200 -200 150 R 50 50 1 1 P
+X Pin_4 4 -200 -300 150 R 50 50 1 1 P
+X Pin_5 5 -200 -400 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
