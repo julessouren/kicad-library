@@ -1,4 +1,4 @@
-(module Amphenol_ACJS-MHOM (layer F.Cu) (tedit 5D3600C5)
+(module Amphenol_ACJS-MHOM (layer F.Cu) (tedit 5D44E87B)
   (tags "Equivalent to Neutrik NRJ6HM-1")
   (fp_text reference REF** (at 0 1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -93,7 +93,7 @@
   (pad TN thru_hole roundrect (at 4.2 17.45) (size 3.75 3) (drill 1.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad RN thru_hole roundrect (at 4.2 11.1) (size 3.75 3) (drill 1.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad SN thru_hole roundrect (at 4.2 4.75) (size 3.75 3) (drill 1.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${SA_LIB_3DSHAPES}/Amphenol_ACJS-MHOM/Amphenol_ACJS-MHOM.step
+  (model ${LIB_MODULES}/Connectors_Jacks_Audio_6.35.pretty/Amphenol_ACJS-MHOM.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
