@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX7219
+D MAX7219
+K MAX7219
+$ENDCMP
+#
+#End Doc Library

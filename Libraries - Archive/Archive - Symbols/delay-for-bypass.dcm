@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Delay-For-Bypass
+D Relay for Soft-Latch Bypass
+$ENDCMP
+#
+#End Doc Library

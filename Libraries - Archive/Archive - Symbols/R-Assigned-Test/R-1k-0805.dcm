@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1k
+D Resistor 0805 1k
+K R DEV
+$ENDCMP
+#
+#End Doc Library

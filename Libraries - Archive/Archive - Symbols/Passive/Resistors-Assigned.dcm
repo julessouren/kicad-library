@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1k
+D Resistor 1206 1k
+K Resistor 1206 1k
+$ENDCMP
+#
+$CMP 1k2
+D Resistor 1206 1k2
+K Resistor 1206 1k2
+$ENDCMP
+#
+$CMP 1k5
+D Resistor 1206 1k5
+K Resistor 1206 1k5
+$ENDCMP
+#
+$CMP 1k8
+D Resistor 1206 1k8
+K Resistor 1206 1k8
+$ENDCMP
+#
+$CMP 2k2
+D Resistor 1206 2k2
+K Resistor 1206 2k2
+$ENDCMP
+#
+$CMP 2k7
+D Resistor 1206 2k7
+K Resistor 1206 2k7
+$ENDCMP
+#
+$CMP 3k3
+D Resistor 1206 3k3
+K Resistor 1206 3k3
+$ENDCMP
+#
+$CMP 4k7
+D Resistor 1206 4k7
+K Resistor 1206 4k7
+$ENDCMP
+#
+$CMP 5k6
+D Resistor 1206 5k6
+K Resistor 1206 5k6
+$ENDCMP
+#
+$CMP 6k8
+D Resistor 1206 6k8
+K Resistor 1206 6k8
+$ENDCMP
+#
+$CMP 8k2
+D Resistor 1206 8k2
+K Resistor 1206 8k2
+$ENDCMP
+#
+#End Doc Library

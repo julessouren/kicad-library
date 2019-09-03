@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1054
+D LT1054 Voltage Converter 
+K LT1054 Voltage Converter Charge Pump
+$ENDCMP
+#
+#End Doc Library

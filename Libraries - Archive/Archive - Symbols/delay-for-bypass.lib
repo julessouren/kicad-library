@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Delay-For-Bypass
+#
+DEF Delay-For-Bypass RL 0 40 Y Y 1 F N
+F0 "RL" 0 -250 60 H V C CNN
+F1 "Delay-For-Bypass" 0 350 60 H V C CNN
+F2 "" 0 50 60 H V C CNN
+F3 "" 0 50 60 H V C CNN
+DRAW
+S -200 200 200 -200 0 1 0 f
+X +9V 1 -400 150 200 R 25 25 1 1 I
+X ~ 2 400 150 200 L 50 50 1 1 I
+X FX_IN 3 -400 50 200 R 25 25 1 1 I
+X ~ 4 400 50 200 L 50 50 1 1 I
+X GND 5 -400 -50 200 R 25 25 1 1 I
+X ~ 6 400 -50 200 L 50 50 1 1 I
+X IN 7 -400 -150 200 R 25 25 1 1 I
+X ~ 8 400 -150 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

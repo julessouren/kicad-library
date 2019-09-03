@@ -1,0 +1,9 @@
+(module Wire_Pads:SolderWirePad_single_1-2mmDrill (layer F.Cu) (tedit 56639DC0)
+  (fp_text reference REF** (at 0 -2.159) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Verohole-Component (at 0 2.413) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.75 1.75) (drill 1.02) (layers B.Cu B.Mask))
+)

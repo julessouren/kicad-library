@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N2222
+D 2N2222
+K 2N2222
+$ENDCMP
+#
+$CMP J201
+D J201
+K J201
+$ENDCMP
+#
+#End Doc Library

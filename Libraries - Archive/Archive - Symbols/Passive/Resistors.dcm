@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 10M
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 10k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 1M
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 1k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 220k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 22k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 2M2
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 2k2
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 470k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 47k
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP 4k7
+D Resistor
+K R DEV
+$ENDCMP
+#
+#End Doc Library

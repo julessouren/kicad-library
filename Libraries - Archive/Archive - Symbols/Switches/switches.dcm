@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3T
+D 3 position switch, SP3T
+K switch SP3T
+$ENDCMP
+#
+$CMP SWITCH_2P4T
+D Switch 2P4T Small
+K Switch 2P4T Small
+$ENDCMP
+#
+$CMP SWITCH_3PDT
+D Switch 3PDT Small
+K Switch 3PDT Small
+$ENDCMP
+#
+$CMP SWITCH_DPDT
+D Switch DPDT Small
+K Switch DPDT Small
+$ENDCMP
+#
+$CMP SWITCH_SP3T
+D Switch SP3T Small
+K Switch SP3T Small
+$ENDCMP
+#
+$CMP SWITCH_SPDT
+D Switch SPDT Small
+K Switch SPDT Small
+$ENDCMP
+#
+$CMP SWITCH_SPST
+D Switch SPST Small
+K Switch SPST Small
+$ENDCMP
+#
+$CMP SWITCH_SPST_SMALL
+D Switch SPST Smaller
+K Switch SPST Smaller
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Switch_SPST
+D Switch_SPST
+K Switch SPST
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+Black: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=206680
+Red: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=206683
+White: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=206679
+
+Scale: 400
+Y-offset: 0.0984
+Z-rotation: 180

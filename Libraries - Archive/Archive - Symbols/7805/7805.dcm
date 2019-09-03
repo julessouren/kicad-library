@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7805
+D Regulator +5V
+K Regulator
+$ENDCMP
+#
+#End Doc Library

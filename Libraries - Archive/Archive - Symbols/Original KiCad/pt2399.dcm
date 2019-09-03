@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PT2399
+D PT2399 Delay IC
+K PT2399 Delay ICC
+$ENDCMP
+#
+$CMP PT2399-DIL
+D PT2399 Delay IC
+K PT2399 Delay ICC
+$ENDCMP
+#
+#End Doc Library

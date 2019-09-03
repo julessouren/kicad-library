@@ -1,0 +1,9 @@
+(module Offboard_+18VDC_1mmDrill (layer F.Cu) (tedit 55AB6C7C)
+  (fp_text reference REF** (at 0 -2.54) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value +18VDC (at 0 2.54) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2.49936 2.49936) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
+)

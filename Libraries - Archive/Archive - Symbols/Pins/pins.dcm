@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +9VDC
+D +9VDC Pin
+K +9VDC Pin
+$ENDCMP
+#
+$CMP FX_IN
+D FX In Pin
+K FX In Pin
+$ENDCMP
+#
+$CMP FX_OUT
+D FX Out Pin
+K FX Out Pin
+$ENDCMP
+#
+$CMP GND
+D Ground Pin
+K Ground Pin
+$ENDCMP
+#
+$CMP Ground
+D Ground Pin
+K Ground Pin
+$ENDCMP
+#
+$CMP Input
+D Input Pin
+K Input Pin
+$ENDCMP
+#
+$CMP Output
+D Output Pin
+K Output Pin
+$ENDCMP
+#
+#End Doc Library

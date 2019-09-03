@@ -1,0 +1,950 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1000u
+#
+DEF 1000u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1000u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100n
+#
+DEF 100n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100u
+#
+DEF 100u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10n
+#
+DEF 10n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10u
+#
+DEF 10u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120n
+#
+DEF 120n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "120n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12n
+#
+DEF 12n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "12n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150n
+#
+DEF 150n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "150n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15n
+#
+DEF 15n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "15n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 180n
+#
+DEF 180n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "180n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18n
+#
+DEF 18n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "18n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1n
+#
+DEF 1n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1n2
+#
+DEF 1n2 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1n2" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1n5
+#
+DEF 1n5 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1n5" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1n8
+#
+DEF 1n8 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1n8" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1u
+#
+DEF 1u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220n
+#
+DEF 220n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "220n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220p
+#
+DEF 220p C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "220p" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220u
+#
+DEF 220u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "220u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22n
+#
+DEF 22n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "22n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22u
+#
+DEF 22u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "22u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 270n
+#
+DEF 270n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "270n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27n
+#
+DEF 27n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "27n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2n2
+#
+DEF 2n2 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "2n2" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330n
+#
+DEF 330n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "330n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330u
+#
+DEF 330u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "330u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33n
+#
+DEF 33n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "33n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33u
+#
+DEF 33u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "33u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3n3
+#
+DEF 3n3 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "3n3" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470n
+#
+DEF 470n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "470n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470u
+#
+DEF 470u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "470u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47n
+#
+DEF 47n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "47n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47u
+#
+DEF 47u C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "47u" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4n7
+#
+DEF 4n7 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "4n7" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560n
+#
+DEF 560n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "560n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56n
+#
+DEF 56n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "56n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5n6
+#
+DEF 5n6 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "5n6" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680n
+#
+DEF 680n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "680n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68n
+#
+DEF 68n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "68n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6n8
+#
+DEF 6n8 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "6n8" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820n
+#
+DEF 820n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "820n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 82n
+#
+DEF 82n C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "82n" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8n2
+#
+DEF 8n2 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "8n2" 25 -100 50 H V L CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,15 @@
+(module C-Pol-Circled-2 (layer F.Cu) (tedit 56DB80E8)
+  (fp_text reference C** (at 2.54 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Val** (at -1.905 3.175) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 1.27 0) (end 2.794 1.143) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.508 -1.27) (end 0.508 -1.016) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.508 -1.27) (end 0.762 -1.27) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.508 -1.27) (end 0.254 -1.27) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.508 -1.27) (end 0.508 -1.524) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at 2.54 0) (size 1.75 1.75) (drill 1.02) (layers B.Cu B.Mask))
+  (pad 1 thru_hole circle (at 0 0) (size 1.75 1.75) (drill 1.02) (layers B.Cu B.Mask))
+)

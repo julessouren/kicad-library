@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 42TM011
+D Xicon 42TM011 Transformer
+K Xicon 42TM011 Transformer
+$ENDCMP
+#
+$CMP TRANSFO_DUAL_PRI_SEC
+D Transformer Dual Primary and Secondary
+$ENDCMP
+#
+#End Doc Library

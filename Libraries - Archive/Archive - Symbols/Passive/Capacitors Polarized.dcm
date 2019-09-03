@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.1uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 0.22uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 1000uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 100uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 10uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 1uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 2.2uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 220uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 22uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 3.3uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 330uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 33uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 4.7uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 470uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 47uF
+D Polarised capacitor
+$ENDCMP
+#
+#End Doc Library

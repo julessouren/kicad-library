@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM308
+D LM308 OpAmp
+K OpAmp
+$ENDCMP
+#
+#End Doc Library

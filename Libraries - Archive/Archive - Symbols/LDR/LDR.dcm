@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDR
+D LDR 
+K LDR Photocell
+$ENDCMP
+#
+$CMP R
+D LDR 
+K LDR Photocell
+$ENDCMP
+#
+#End Doc Library

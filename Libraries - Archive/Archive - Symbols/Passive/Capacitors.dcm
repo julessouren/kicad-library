@@ -1,0 +1,175 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1000u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 120n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 12n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 15n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 180n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 18n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1n2
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1n5
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1n8
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 220n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 220p
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 220u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 22n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 22u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 270n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 27n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2n2
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 33n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 33u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 3n3
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47u
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 4n7
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 560n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 56n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 5n6
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 680n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 68n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 6n8
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 820n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 82n
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 8n2
+D Unpolarized capacitor
+$ENDCMP
+#
+#End Doc Library

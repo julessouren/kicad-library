@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BBD
+D BBD IC
+K BBD
+$ENDCMP
+#
+$CMP BBD-CLOCK
+D BBD Clock IC
+K BBD Clock
+$ENDCMP
+#
+#End Doc Library

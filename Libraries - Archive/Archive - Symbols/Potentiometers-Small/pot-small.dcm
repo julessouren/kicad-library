@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP POT
+D Potentiometer Small
+K Potentiometer Pot
+$ENDCMP
+#
+$CMP TRIM
+D Trimpot Small
+K Trimpot Trimmer
+$ENDCMP
+#
+#End Doc Library

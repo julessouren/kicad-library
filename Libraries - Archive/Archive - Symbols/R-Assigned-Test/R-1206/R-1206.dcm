@@ -1,0 +1,363 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100R
+D Resistor 1206 100R
+K R DEV
+$ENDCMP
+#
+$CMP 100k
+D Resistor 1206 100k
+K R DEV
+$ENDCMP
+#
+$CMP 10M
+D Resistor 1206 10M
+K R DEV
+$ENDCMP
+#
+$CMP 10R
+D Resistor 1206 10R
+K R DEV
+$ENDCMP
+#
+$CMP 10k
+D Resistor 1206 10k
+K R DEV
+$ENDCMP
+#
+$CMP 120R
+D Resistor 1206 120R
+K R DEV
+$ENDCMP
+#
+$CMP 120k
+D Resistor 1206 120k
+K R DEV
+$ENDCMP
+#
+$CMP 12R
+D Resistor 1206 12R
+K R DEV
+$ENDCMP
+#
+$CMP 12k
+D Resistor 1206 12k
+K R DEV
+$ENDCMP
+#
+$CMP 150R
+D Resistor 1206 150R
+K R DEV
+$ENDCMP
+#
+$CMP 150k
+D Resistor 1206 150k
+K R DEV
+$ENDCMP
+#
+$CMP 15R
+D Resistor 1206 15R
+K R DEV
+$ENDCMP
+#
+$CMP 15k
+D Resistor 1206 15k
+K R DEV
+$ENDCMP
+#
+$CMP 180R
+D Resistor 1206 180R
+K R DEV
+$ENDCMP
+#
+$CMP 180k
+D Resistor 1206 180k
+K R DEV
+$ENDCMP
+#
+$CMP 18R
+D Resistor 1206 18R
+K R DEV
+$ENDCMP
+#
+$CMP 18k
+D Resistor 1206 18k
+K R DEV
+$ENDCMP
+#
+$CMP 1M
+D Resistor 1206 1M
+K R DEV
+$ENDCMP
+#
+$CMP 1M2
+D Resistor 1206 1M2
+K R DEV
+$ENDCMP
+#
+$CMP 1M5
+D Resistor 1206 1M5
+K R DEV
+$ENDCMP
+#
+$CMP 1M8
+D Resistor 1206 1M8
+K R DEV
+$ENDCMP
+#
+$CMP 1R
+D Resistor 1206 1R
+K R DEV
+$ENDCMP
+#
+$CMP 1R2
+D Resistor 1206 1R2
+K R DEV
+$ENDCMP
+#
+$CMP 1R5
+D Resistor 1206 1R5
+K R DEV
+$ENDCMP
+#
+$CMP 1R8
+D Resistor 1206 1R8
+K R DEV
+$ENDCMP
+#
+$CMP 1k
+D Resistor 1206 1k
+K R DEV
+$ENDCMP
+#
+$CMP 1k2
+D Resistor 1206 1k2
+K R DEV
+$ENDCMP
+#
+$CMP 1k5
+D Resistor 1206 1k5
+K R DEV
+$ENDCMP
+#
+$CMP 1k8
+D Resistor 1206 1k8
+K R DEV
+$ENDCMP
+#
+$CMP 220R
+D Resistor 1206 220R
+K R DEV
+$ENDCMP
+#
+$CMP 220k
+D Resistor 1206 220k
+K R DEV
+$ENDCMP
+#
+$CMP 22R
+D Resistor 1206 22R
+K R DEV
+$ENDCMP
+#
+$CMP 22k
+D Resistor 1206 22k
+K R DEV
+$ENDCMP
+#
+$CMP 2M2
+D Resistor 1206 2M2
+K R DEV
+$ENDCMP
+#
+$CMP 2R2
+D Resistor 1206 2R2
+K R DEV
+$ENDCMP
+#
+$CMP 2k2
+D Resistor 1206 2k2
+K R DEV
+$ENDCMP
+#
+$CMP 2k7
+D Resistor 1206 2k7
+K R DEV
+$ENDCMP
+#
+$CMP 330R
+D Resistor 1206 330R
+K R DEV
+$ENDCMP
+#
+$CMP 330k
+D Resistor 1206 330k
+K R DEV
+$ENDCMP
+#
+$CMP 33R
+D Resistor 1206 33R
+K R DEV
+$ENDCMP
+#
+$CMP 33k
+D Resistor 1206 33k
+K R DEV
+$ENDCMP
+#
+$CMP 3M3
+D Resistor 1206 3M3
+K R DEV
+$ENDCMP
+#
+$CMP 3R3
+D Resistor 1206 3R3
+K R DEV
+$ENDCMP
+#
+$CMP 3k3
+D Resistor 1206 3k3
+K R DEV
+$ENDCMP
+#
+$CMP 470R
+D Resistor 1206 470R
+K R DEV
+$ENDCMP
+#
+$CMP 470k
+D Resistor 1206 470k
+K R DEV
+$ENDCMP
+#
+$CMP 47R
+D Resistor 1206 47R
+K R DEV
+$ENDCMP
+#
+$CMP 47k
+D Resistor 1206 47k
+K R DEV
+$ENDCMP
+#
+$CMP 4M7
+D Resistor 1206 4M7
+K R DEV
+$ENDCMP
+#
+$CMP 4R7
+D Resistor 1206 4R7
+K R DEV
+$ENDCMP
+#
+$CMP 4k7
+D Resistor 1206 4k7
+K R DEV
+$ENDCMP
+#
+$CMP 560R
+D Resistor 1206 560R
+K R DEV
+$ENDCMP
+#
+$CMP 560k
+D Resistor 1206 560k
+K R DEV
+$ENDCMP
+#
+$CMP 56R
+D Resistor 1206 56R
+K R DEV
+$ENDCMP
+#
+$CMP 56k
+D Resistor 1206 56k
+K R DEV
+$ENDCMP
+#
+$CMP 5M6
+D Resistor 1206 5M6
+K R DEV
+$ENDCMP
+#
+$CMP 5R6
+D Resistor 1206 5R6
+K R DEV
+$ENDCMP
+#
+$CMP 5k6
+D Resistor 1206 5k6
+K R DEV
+$ENDCMP
+#
+$CMP 680R
+D Resistor 1206 680R
+K R DEV
+$ENDCMP
+#
+$CMP 680k
+D Resistor 1206 680k
+K R DEV
+$ENDCMP
+#
+$CMP 68R
+D Resistor 1206 68R
+K R DEV
+$ENDCMP
+#
+$CMP 68k
+D Resistor 1206 68k
+K R DEV
+$ENDCMP
+#
+$CMP 6M8
+D Resistor 1206 6M8
+K R DEV
+$ENDCMP
+#
+$CMP 6R8
+D Resistor 1206 6R8
+K R DEV
+$ENDCMP
+#
+$CMP 6k8
+D Resistor 1206 6k8
+K R DEV
+$ENDCMP
+#
+$CMP 820R
+D Resistor 1206 820R
+K R DEV
+$ENDCMP
+#
+$CMP 820k
+D Resistor 1206 820k
+K R DEV
+$ENDCMP
+#
+$CMP 82R
+D Resistor 1206 82R
+K R DEV
+$ENDCMP
+#
+$CMP 82k
+D Resistor 1206 82k
+K R DEV
+$ENDCMP
+#
+$CMP 8M2
+D Resistor 1206 8M2
+K R DEV
+$ENDCMP
+#
+$CMP 8R2
+D Resistor 1206 8R2
+K R DEV
+$ENDCMP
+#
+$CMP 8k2
+D Resistor 1206 8k2
+K R DEV
+$ENDCMP
+#
+#End Doc Library

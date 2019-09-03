@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Q_NPN_EBC_Smallpins
+#
+DEF Q_NPN_EBC_Smallpins Q 0 0 Y N 1 F N
+F0 "Q" 300 50 50 H V R CNN
+F1 "Q_NPN_EBC_Smallpins" 1025 -50 50 H V R CNN
+F2 "" 200 100 29 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+C 50 0 111 0 1 10 N
+S 25 0 -75 0 0 1 0 N
+P 2 0 1 0  25 25  100 100 N
+P 3 0 1 0  25 -25  100 -100  100 -100 N
+P 3 0 1 20  25 75  25 -75  25 -75 N
+P 5 0 1 0  50 -70  70 -50  90 -90  50 -70  50 -70 F
+X E 1 100 -150 49 U 50 50 1 1 P
+X B 2 -100 0 39 R 50 50 1 1 P
+X C 3 100 150 49 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
